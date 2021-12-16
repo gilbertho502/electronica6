@@ -5,6 +5,8 @@ Laboratorio de electronica 6
 
 Repositorio de las practicas y proyecto del curso.
 
+Para este laboratorio se utiliza la FPGA Elbert V2
+
 *Descripcion del proyecto*
 
 El proyecto consiste en implementar un traductor de lenguaje de se~nas a texto.
