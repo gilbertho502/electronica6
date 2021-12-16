@@ -1,7 +1,5 @@
 -----------------------------------------------------------------------------
 --Gilberto Misrain Vicente Yoc - 201503776
---Eduardo Alexander Xiquin Castro - 201403911
---Yeffrey Jared Veliz Arteaga - 201709175
 ----------------------------------------------------------------------------
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
